@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋👋, I'm Fiqri Viadi</h1>
-<img align="center" alt="web-developer" width="70%" src="https://i.pinimg.com/originals/22/0f/66/220f667bda53cb41fecd3926efd931af.gif">
+<img align="center" alt="web-developer" width="70%" src="file:///C:/Users/asus6/Downloads/onepiece.gif">
 <p align="justify">Saya adalah seorang Front-End Development Junior yang bersemangat, berlokasi di Medan. Fokus utama saya adalah menciptakan antarmuka pengguna (UI) yang bersih, intuitif, dan responsif menggunakan HTML5 dan CSS3. Saat ini, saya secara aktif mendalami JavaScript dan framework modern untuk melengkapi kemampuan styling saya dengan interaktivitas yang canggih. Saya percaya bahwa detail kecil dalam desain sangat memengaruhi pengalaman pengguna secara keseluruhan. Saya selalu mencari peluang untuk belajar, berkolaborasi, dan menerapkan standar kode terbaik.</p>
 
 ## 🌐 Socials:
